@@ -1,17 +1,17 @@
-NextCell
-NextCell is a lightweight demo platform designed to identify second-life applications for used EV batteries. It serves as a matchmaking tool to connect EV battery owners with sustainable reuse opportunities based on battery health and geographic location.
+RegenCore
+RegenCore is a lightweight demo platform designed to identify second-life applications for used EV batteries. It serves as a matchmaking tool to connect EV battery owners with sustainable reuse opportunities based on battery health and geographic location.
 
 🌱 Sustainable Engineering Domain: Waste Management & Eco Awareness
-As part of a sustainable engineering initiative, NextCell addresses two critical areas:
+As part of a sustainable engineering initiative, RegenCore addresses two critical areas:
 
 Waste Management
 
 Eco Awareness
 
-With the rapid rise in electric vehicle (EV) adoption, millions of lithium-ion batteries are being retired despite having 60–80% of their usable capacity left. These partially viable batteries often end up in landfills, contributing to electronic waste and environmental hazards. NextCell intervenes at this point of disposal, offering a second life to such batteries and diverting them from the waste stream.
+With the rapid rise in electric vehicle (EV) adoption, millions of lithium-ion batteries are being retired despite having 60–80% of their usable capacity left. These partially viable batteries often end up in landfills, contributing to electronic waste and environmental hazards. RegenCore intervenes at this point of disposal, offering a second life to such batteries and diverting them from the waste stream.
 
 🔄 Relevance to Waste Management
-Reduces E-Waste: By facilitating reuse, NextCell helps lower the volume of high-impact electronic waste entering the environment.
+Reduces E-Waste: By facilitating reuse, RegenCore helps lower the volume of high-impact electronic waste entering the environment.
 
 Resource Optimization: Extracting maximum utility from a battery before recycling conserves raw materials and reduces demand for new manufacturing.
 
@@ -28,7 +28,7 @@ Educational Impact: It provides a practical example of circular economy principl
 As EV usage increases, the challenge of managing retired lithium-ion batteries grows. Despite retaining substantial capacity, most are discarded without consideration for reuse. There are limited tools for individuals or small businesses to assess and repurpose these batteries efficiently.
 
 🛠 Solution
-NextCell is a user-friendly, web-based platform that:
+RegenCore is a user-friendly, web-based platform that:
 
 Allows EV battery owners to input battery details (capacity, model, location).
 
