@@ -1,0 +1,122 @@
+[
+  {
+    "id": "BT00123",
+    "capacity": 85,
+    "cyclesCompleted": 2300,
+    "healthPercentage": 78,
+    "suggestedUse": "Grid Storage",
+    "price": 3500,
+    "manufacturer": "Tesla",
+    "originalVehicle": "Model S",
+    "yearManufactured": 2018,
+    "location": "San Francisco, CA"
+  },
+  {
+    "id": "BT00456",
+    "capacity": 64,
+    "cyclesCompleted": 1800,
+    "healthPercentage": 82,
+    "suggestedUse": "E-Bike Conversion",
+    "price": 2200,
+    "manufacturer": "Nissan",
+    "originalVehicle": "Leaf",
+    "yearManufactured": 2019,
+    "location": "Portland, OR"
+  },
+  {
+    "id": "BT00789",
+    "capacity": 100,
+    "cyclesCompleted": 3100,
+    "healthPercentage": 65,
+    "suggestedUse": "Power Banks",
+    "price": 2800,
+    "manufacturer": "BMW",
+    "originalVehicle": "i3",
+    "yearManufactured": 2017,
+    "location": "Austin, TX"
+  },
+  {
+    "id": "BT00234",
+    "capacity": 75,
+    "cyclesCompleted": 1200,
+    "healthPercentage": 89,
+    "suggestedUse": "Home Energy Storage",
+    "price": 4100,
+    "manufacturer": "Chevrolet",
+    "originalVehicle": "Bolt",
+    "yearManufactured": 2020,
+    "location": "Chicago, IL"
+  },
+  {
+    "id": "BT00567",
+    "capacity": 90,
+    "cyclesCompleted": 2700,
+    "healthPercentage": 72,
+    "suggestedUse": "Industrial Backup",
+    "price": 3800,
+    "manufacturer": "Hyundai",
+    "originalVehicle": "Kona Electric",
+    "yearManufactured": 2019,
+    "location": "Denver, CO"
+  },
+  {
+    "id": "BT00890",
+    "capacity": 58,
+    "cyclesCompleted": 950,
+    "healthPercentage": 93,
+    "suggestedUse": "E-Scooter Fleet",
+    "price": 2600,
+    "manufacturer": "Kia",
+    "originalVehicle": "Niro EV",
+    "yearManufactured": 2021,
+    "location": "Miami, FL"
+  },
+  {
+    "id": "BT00345",
+    "capacity": 82,
+    "cyclesCompleted": 3400,
+    "healthPercentage": 61,
+    "suggestedUse": "Grid Storage",
+    "price": 2300,
+    "manufacturer": "Volkswagen",
+    "originalVehicle": "ID.4",
+    "yearManufactured": 2018,
+    "location": "Seattle, WA"
+  },
+  {
+    "id": "BT00678",
+    "capacity": 70,
+    "cyclesCompleted": 1600,
+    "healthPercentage": 85,
+    "suggestedUse": "Solar Integration",
+    "price": 3200,
+    "manufacturer": "Ford",
+    "originalVehicle": "Mustang Mach-E",
+    "yearManufactured": 2020,
+    "location": "Boston, MA"
+  },
+  {
+    "id": "BT00901",
+    "capacity": 95,
+    "cyclesCompleted": 2900,
+    "healthPercentage": 69,
+    "suggestedUse": "Electric Farm Equipment",
+    "price": 3600,
+    "manufacturer": "Audi",
+    "originalVehicle": "e-tron",
+    "yearManufactured": 2019,
+    "location": "Nashville, TN"
+  },
+  {
+    "id": "BT00432",
+    "capacity": 68,
+    "cyclesCompleted": 1050,
+    "healthPercentage": 91,
+    "suggestedUse": "E-Bike Conversion",
+    "price": 2900,
+    "manufacturer": "Polestar",
+    "originalVehicle": "Polestar 2",
+    "yearManufactured": 2021,
+    "location": "Minneapolis, MN"
+  }
+]
